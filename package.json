@@ -1,0 +1,13 @@
+{
+	"name": "com.grave.tools.project.setup",
+	"version": "0.1.0",
+	"displayName": "Grave's Tools Project Setup",
+	"description": "Tool for making default folders and packages management",
+	"author": 
+	{
+		"name": "Grave18",
+		"email": "grave63@gmail.com",
+		"url": "https://github.com/Grave18"
+    }
+}
+	
